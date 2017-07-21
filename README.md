@@ -20,6 +20,7 @@ The app is initialized after the appropriate NPM packages are installed by runni
 Click the "Go" button to take the survey.
 </br>
 </br>
+</br>
 
 <p align="center">
   <strong>Survey Page</strong>
