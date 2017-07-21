@@ -30,10 +30,9 @@ Click the "Go" button to take the survey.
   <img src="app/public/images/screen2.png" width="500" border="2px solid black"/>
   </kbd>
 </p>
-</br>
-</br>
 
-Answer the survey questions.
+Answer the survey questions, and hit the "Submit" button when ready.
+</br>
 </br>
 </br>
 
