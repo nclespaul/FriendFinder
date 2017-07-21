@@ -16,8 +16,6 @@ The app is initialized after the appropriate NPM packages are installed by runni
   <img src="app/public/images/screen1.png" width="500" border="2px solid black"/>
   </kbd>
 </p>
-</br>
-</br>
 
 Click the "Go" button to take the survey.
 </br>
