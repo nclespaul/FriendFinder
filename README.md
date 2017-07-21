@@ -44,6 +44,7 @@ Answer the survey questions, and hit the "Submit" button when ready.
   <img src="app/public/images/screen3.png" width="500" border="2px solid black"/>
   </kbd>
 </p>
+
 We will then match you to someone who shares your some tastes and views.  Happy Hunting!!
 
 
