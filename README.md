@@ -37,7 +37,7 @@ Answer the survey questions, and hit the "Submit" button when ready.
 </br>
 
 <p align="center">
-  <strong>Survey Page</strong>
+  <strong>Results Page</strong>
 </p>
 <p align="center">
   <kbd>
