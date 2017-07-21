@@ -8,7 +8,7 @@ Friend Finder is an online dating app similar to E-Harmony, where the user answe
 
 The app is initialized after the appropriate NPM packages are installed by running the command `node server.js` at the command terminal.
 
-###
+##
 <p align="center">
 Landing Screen
 </p>
