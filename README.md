@@ -31,6 +31,21 @@ Click the "Go" button to take the survey.
   <img src="app/public/images/screen2.png" width="500" border="2px solid black"/>
   </kbd>
 </p>
+</br>
+</br>
+
+Answer the survey questions.
+</br>
+</br>
+
+<p align="center">
+  <strong>Survey Page</strong>
+</p>
+<p align="center">
+  <kbd>
+  <img src="app/public/images/screen2.png" width="500" border="2px solid black"/>
+  </kbd>
+</p>
 
 
 
